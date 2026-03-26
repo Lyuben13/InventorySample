@@ -2,11 +2,10 @@
 
 [![.NET](https://img.shields.io/badge/.NET-8.0-purple.svg)](https://dotnet.microsoft.com/)
 [![C#](https://img.shields.io/badge/C%23-12.0-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Tests](https://img.shields.io/badge/Tests-12%20Passed-brightgreen.svg)](InventoryApp.Tests)
 
 > Конзолно приложение за управление на складови наличности.
-> Разработено с C# и .NET 8 като учебен проект.
+> Разработено с C# и .NET 8.
 
 ## Основни функционалности
 
